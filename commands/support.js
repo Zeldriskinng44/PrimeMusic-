@@ -9,7 +9,7 @@ module.exports = {
     options: [],
     run: async (client, interaction, lang) => {
         try {
-            const supportServerLink = "https://discord.gg/8VaW2SvXB9";
+            const supportServerLink = "";
             const githubLink = "";
             const replitLink = "";
             const youtubeLink = "";
